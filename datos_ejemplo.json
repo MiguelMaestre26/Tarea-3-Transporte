@@ -1,0 +1,11 @@
+{
+  "origenes": ["Planta San Diego (O1)", "Planta Maracay (O2)", "Planta Barquisimeto (O3)"],
+  "destinos": ["C.D. Caracas (D1)", "C.D. Maracaibo (D2)", "C.D. Pto. La Cruz (D3)", "C.D. San Cristobal (D4)"],
+  "costos": [
+    [15, 35, 40, 45],
+    [10, 45, 30, 50],
+    [25, 20, 55, 20]
+  ],
+  "oferta": [300, 400, 500],
+  "demanda": [250, 350, 400, 200]
+}
